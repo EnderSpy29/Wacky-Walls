@@ -1,10 +1,11 @@
-## Wacky Walls?
+<h2 align="center">
+  Wacky Walls
+  <h4 align="center">
+    Collection of wallpapers used in my Dotfiles <a href="https://github.com/D3Ext/aesthetic-wallpapers"><b>Endrland-Dots</b></a><br>
+  </h5>
+</h2>
 
-Yeah, wacky walls i can get used to that.
-This repo is my personal repo of Wallpapers.
-most of these wallpapers go reasonably well with my Dotfiles
-[Endrland-Dots](https://github.com/EnderSpy29/Endrland-Dots)
+Having collected these over the course of many years i don't know their exact sources. Among the few sources i know of are
+Unixporn, Wallhaven, Reddit, Alphacoders and Github.
 
-I'd love it if you sent in your recommendations for wallpapers you'd like to see Added!
-
-*I don't own any of these walls, tis just a collection of them found all over the internet*
+*I'd love it if you sent in your recommendations for wallpapers you'd like to see Added!*
