@@ -1,7 +1,7 @@
 <h2 align="center">
   Wacky Walls
   <h4 align="center">
-    Collection of wallpapers used in my Dotfiles <a href="https://github.com/EnderSpy29/Wacky-Walls"><b>Endrland-Dots</b></a><br>
+    Collection of wallpapers used in my Dotfiles <a href="https://github.com/EnderSpy29/Endrland-Dots"><b>Endrland-Dots</b></a><br>
   </h5>
 </h2>
 
