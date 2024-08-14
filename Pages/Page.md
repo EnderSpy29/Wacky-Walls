@@ -80,3 +80,24 @@ tags: `HunterxHunter` `anime`
 
 tags: `keyboards` `aesthetic` `neutral`
 <img src="https://raw.githubusercontent.com/EnderSpy29/Wacky-Walls/main/Wallpapers/Keyboards.jpg">
+
+tags: `kurzgesagt` `planets` `space`
+<img src="https://raw.githubusercontent.com/EnderSpy29/Wacky-Walls/main/Wallpapers/Kurzgesagt-Planet.png">
+
+tags: `lambo` `city` `aesthetic`
+<img src="https://raw.githubusercontent.com/EnderSpy29/Wacky-Walls/main/Wallpapers/Lambo-City.jpg">
+
+tags: `landrover` `rocky` `light`
+<img src="https://raw.githubusercontent.com/EnderSpy29/Wacky-Walls/main/Wallpapers/Landrover-Trail.jpg">
+
+tags: `landrover` `trainyard` `light`
+<img src="https://raw.githubusercontent.com/EnderSpy29/Wacky-Walls/main/Wallpapers/Landrover-Trainyard.jpeg">
+
+tags: `landrover` `muddy` `yellow`
+<img src="https://raw.githubusercontent.com/EnderSpy29/Wacky-Walls/main/Wallpapers/Landrover-Yellow.jpg">
+
+tags: `landrover` `outdoors` `nature`
+<img src="https://raw.githubusercontent.com/EnderSpy29/Wacky-Walls/main/Wallpapers/Landrover.jpeg">
+
+tags: `Linux` `bedroom` `dark`
+<img src="https://raw.githubusercontent.com/EnderSpy29/Wacky-Walls/main/Wallpapers/Linux-user-Room.jpg">
