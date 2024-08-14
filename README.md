@@ -15,4 +15,6 @@ List of all the wallpapers being displayed with searchable tags: [Page](https://
 Having collected these over the course of many years i don't know their exact sources. Among the few sources i know of are
 Unixporn, Wallhaven, Reddit, Alphacoders and Github.
 
+If you have git installed you can run `git clone --depth 1 https://github.com/EnderSpy29/Wacky-Walls.git` to clone to repo at its smallest possible size (`--depth 1` is calling only the most recent commit so you're not getting the entire git commit history when you clone the repo)
+
 *I'd love it if you sent in your recommendations for wallpapers you'd like to see Added!*
