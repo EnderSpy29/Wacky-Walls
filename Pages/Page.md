@@ -99,5 +99,46 @@ tags: `landrover` `muddy` `yellow`
 tags: `landrover` `outdoors` `nature`
 <img src="https://raw.githubusercontent.com/EnderSpy29/Wacky-Walls/main/Wallpapers/Landrover.jpeg">
 
-tags: `Linux` `bedroom` `dark`
+tags: `linux` `bedroom` `dark`
 <img src="https://raw.githubusercontent.com/EnderSpy29/Wacky-Walls/main/Wallpapers/Linux-user-Room.jpg">
+
+tags: `cat` `window` `room`
+<img src="https://raw.githubusercontent.com/EnderSpy29/Wacky-Walls/main/Wallpapers/Lofi_Cat.jpg">
+
+tags: `dark` `city` `street`
+<img src="https://raw.githubusercontent.com/EnderSpy29/Wacky-Walls/main/Wallpapers/Lowpoly_Street.png">
+
+tags: `onepiece` `luffy` `red`
+<img src="https://raw.githubusercontent.com/EnderSpy29/Wacky-Walls/main/Wallpapers/Luffy.jpg">
+
+tags: `red` `makima` `anime`
+<img src="https://raw.githubusercontent.com/EnderSpy29/Wacky-Walls/main/Wallpapers/Makima-Stare.jpg">
+
+tags: `dark` `makima` `dramatic`
+<img src="https://raw.githubusercontent.com/EnderSpy29/Wacky-Walls/main/Wallpapers/Makima-Store.jpg">
+
+tags: `makima` `synthwave` `neon`
+<img src="https://raw.githubusercontent.com/EnderSpy29/Wacky-Walls/main/Wallpapers/Makima-Synth.jpg">
+
+tags: `makima` `red` `anime`
+<img src="https://raw.githubusercontent.com/EnderSpy29/Wacky-Walls/main/Wallpapers/MakimaRed.jpg">
+
+tags: `mandalorian` `tatooine` `sand`
+<img src="https://raw.githubusercontent.com/EnderSpy29/Wacky-Walls/main/Wallpapers/Mandalorian.jpg">
+
+tags: `dark` `girl` `nord?`
+<img src="https://raw.githubusercontent.com/EnderSpy29/Wacky-Walls/main/Wallpapers/Manga-Girl-Rain.png">
+
+tags: `anime` `japan` `cherry blossom`
+<img src="https://raw.githubusercontent.com/EnderSpy29/Wacky-Walls/main/Wallpapers/Manga-Portal.jpg">
+
+tags: `shrine` `japan` `anime`
+<img src="https://raw.githubusercontent.com/EnderSpy29/Wacky-Walls/main/Wallpapers/Manga-Shrine.jpg">
+
+tags: `green` `pixel` `waterfall` `pokemon`
+<img src="https://raw.githubusercontent.com/EnderSpy29/Wacky-Walls/main/Wallpapers/May_waterfall_desktop_HD.png">
+
+tags: `neon abyss` `purple` `gamer`
+<img src="https://raw.githubusercontent.com/EnderSpy29/Wacky-Walls/main/Wallpapers/Neon-Abyss.jpg">
+
+tags:
