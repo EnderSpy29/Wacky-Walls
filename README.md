@@ -17,4 +17,6 @@ Unixporn, Wallhaven, Reddit, Alphacoders and Github.
 
 If you have git installed you can run `git clone --depth 1 https://github.com/EnderSpy29/Wacky-Walls.git` to clone to repo at its smallest possible size (`--depth 1` is calling only the most recent commit so you're not getting the entire git commit history when you clone the repo)
 
+Otherwise download the images individually or click on the blue "Code" button and then click download zip
+
 *I'd love it if you sent in your recommendations for wallpapers you'd like to see Added!*
