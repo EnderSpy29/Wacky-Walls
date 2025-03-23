@@ -46,8 +46,8 @@
 <img src=https://raw.githubusercontent.com/EnderSpy29/Wacky-Walls/refs/heads/main/Wallpapers/Rainy.jpeg>
 <img src=https://raw.githubusercontent.com/EnderSpy29/Wacky-Walls/refs/heads/main/Wallpapers/Sentry.jpg>
 <img src=https://raw.githubusercontent.com/EnderSpy29/Wacky-Walls/refs/heads/main/Wallpapers/StarfieldCityNight.jpg>
-<img src=https://raw.githubusercontent.com/EnderSpy29/Wacky-Walls/refs/heads/main/Wallpapers/Stitch And Toothless.jpg>
+<img src=https://raw.githubusercontent.com/EnderSpy29/Wacky-Walls/refs/heads/main/Wallpapers/Stitch-And-Toothless.jpg>
 <img src=https://raw.githubusercontent.com/EnderSpy29/Wacky-Walls/refs/heads/main/Wallpapers/Tokyo_Pink.png>
-<img src=https://raw.githubusercontent.com/EnderSpy29/Wacky-Walls/refs/heads/main/Wallpapers/Toothless Nightsky.png>
+<img src=https://raw.githubusercontent.com/EnderSpy29/Wacky-Walls/refs/heads/main/Wallpapers/Toothless-Nightsky.png>
 <img src=https://raw.githubusercontent.com/EnderSpy29/Wacky-Walls/refs/heads/main/Wallpapers/Tower-Night.png>
 <img src=https://raw.githubusercontent.com/EnderSpy29/Wacky-Walls/refs/heads/main/Wallpapers/Valheim-Bonfire.jpg>
