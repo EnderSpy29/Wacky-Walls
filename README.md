@@ -10,7 +10,7 @@
 
 ![GitHub Repo stars](https://img.shields.io/github/stars/EnderSpy29/Wacky-Walls?style=for-the-badge&color=%239745F5&labelColor=%23000000) ![GitHub last commit](https://img.shields.io/github/last-commit/JaKooLit/Hyprland-Dots?style=for-the-badge&color=%239745F5&labelColor=%23000000)
 
-Easily preview all of the wallpapers here [Page](https://github.com/EnderSpy29/Wacky-Walls/blob/main/PAGE.MD)
+Easily preview all of the wallpapers here [Page](https://github.com/EnderSpy29/Wacky-Walls/blob/main/PAGE.md)
 
 Having collected these over the course of many years i don't know their exact sources. Among the few sources i know of are
 Unixporn, Wallhaven, Reddit, Alphacoders and Github.
