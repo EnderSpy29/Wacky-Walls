@@ -15,6 +15,7 @@
 <img src=https://raw.githubusercontent.com/EnderSpy29/Wacky-Walls/refs/heads/main/Wallpapers/ForestRoad.jpg>
 <img src=https://raw.githubusercontent.com/EnderSpy29/Wacky-Walls/refs/heads/main/Wallpapers/Frieren-Night.jpg>
 <img src=https://raw.githubusercontent.com/EnderSpy29/Wacky-Walls/refs/heads/main/Wallpapers/Frieren-Tree.jpg>
+<img src=https://raw.githubusercontent.com/EnderSpy29/Wacky-Walls/refs/heads/main/Wallpapers/Hollowknight.png>
 <img src=https://raw.githubusercontent.com/EnderSpy29/Wacky-Walls/refs/heads/main/Wallpapers/Howls-Castle.jpg>
 <img src=https://raw.githubusercontent.com/EnderSpy29/Wacky-Walls/refs/heads/main/Wallpapers/HunterxHunter.jpg>
 <img src=https://raw.githubusercontent.com/EnderSpy29/Wacky-Walls/refs/heads/main/Wallpapers/InitialDpixel.png>
