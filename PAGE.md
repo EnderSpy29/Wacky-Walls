@@ -25,6 +25,7 @@
 <img src=https://raw.githubusercontent.com/EnderSpy29/Wacky-Walls/refs/heads/main/Wallpapers/Landrover-Trail.jpg>
 <img src=https://raw.githubusercontent.com/EnderSpy29/Wacky-Walls/refs/heads/main/Wallpapers/Landrover-Trainyard.jpeg>
 <img src=https://raw.githubusercontent.com/EnderSpy29/Wacky-Walls/refs/heads/main/Wallpapers/Lowpoly_Street.png>
+<img src=https://raw.githubusercontent.com/EnderSpy29/Wacky-Walls/refs/heads/main/Wallpapers/Makima-Stare.png>
 <img src=https://raw.githubusercontent.com/EnderSpy29/Wacky-Walls/refs/heads/main/Wallpapers/Makima-Store.jpg>
 <img src=https://raw.githubusercontent.com/EnderSpy29/Wacky-Walls/refs/heads/main/Wallpapers/Manga-Girl-Rain.png>
 <img src=https://raw.githubusercontent.com/EnderSpy29/Wacky-Walls/refs/heads/main/Wallpapers/Manga-Portal.jpg>
@@ -43,6 +44,7 @@
 <img src=https://raw.githubusercontent.com/EnderSpy29/Wacky-Walls/refs/heads/main/Wallpapers/Oriental-Warrior.jpg>
 <img src=https://raw.githubusercontent.com/EnderSpy29/Wacky-Walls/refs/heads/main/Wallpapers/Purple-Tree.jpg>
 <img src=https://raw.githubusercontent.com/EnderSpy29/Wacky-Walls/refs/heads/main/Wallpapers/Rainy.jpeg>
+<img src=https://raw.githubusercontent.com/EnderSpy29/Wacky-Walls/refs/heads/main/Wallpapers/Reze.png>
 <img src=https://raw.githubusercontent.com/EnderSpy29/Wacky-Walls/refs/heads/main/Wallpapers/Sentry.jpg>
 <img src=https://raw.githubusercontent.com/EnderSpy29/Wacky-Walls/refs/heads/main/Wallpapers/Skyrim-10th-Anniversary.png>
 <img src=https://raw.githubusercontent.com/EnderSpy29/Wacky-Walls/refs/heads/main/Wallpapers/Skyrim-Emblem.jpg>
